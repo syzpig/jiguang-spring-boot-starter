@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "jr.ranlo.jiguang.im.appkey",
+      "type": "java.lang.String",
+      "description": "极光appkey",
+      "defaultValue": "f40d7d242eebde99e6457c8a"
+    },{
+      "name": "jr.ranlo.jiguang.im.masterSecret",
+      "type": "java.lang.String",
+      "description": "极光秘钥masterSecret",
+      "defaultValue": "fa303d3f3d6f8137dd841237"
+    }
+  ]
+
+}

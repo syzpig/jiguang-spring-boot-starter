@@ -1,0 +1,7 @@
+com\jr\ranlo\jiguang\factory\MessagePayloadFactory.class
+com\jr\ranlo\jiguang\JMessageService.class
+com\jr\ranlo\jiguang\utils\MD5Util.class
+com\jr\ranlo\jiguang\autoConfigration\JiGuangImAutoConfiguration.class
+com\jr\ranlo\jiguang\dto\IMAuthPayloadDto.class
+META-INF\spring-configuration-metadata.json
+com\jr\ranlo\jiguang\autoConfigration\JiGuangImProperties.class
